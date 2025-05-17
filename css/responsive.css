@@ -1,0 +1,448 @@
+
+@media only screen and (max-width: 1430px) {
+	.playlist-audio {padding: 84px 50px 77px;}
+}
+
+@media only screen and (max-width: 1366px) {
+	.banner-img {display: none;}
+	.bg8 {background-position: top right;}
+	.sprt-sec {padding: 50px 0;}
+	.img-full {height: 100%;}
+	.img-full > img {height: 100%;object-fit:cover;}
+}
+
+@media only screen and (max-width: 1200px) {
+	.scrollTop {right: 50px;}
+	.donate-txt > h2 {font-size: 40px;line-height: 50px;}
+	.donate-music-page .donate-sec .row {align-items: flex-start !important;}
+	.podcast-info {max-width: 160px;flex: 0 0 160px;}
+	.podcast-info > h3 {font-size: 18px;}
+	.music-collections .container-fluid {padding: 0 15px;}
+	.ply-text {padding: 0 30px;}
+	.banner-slider .slick-dots {bottom: -70px;}
+	.ply-text > h2 {font-size: 40px;line-height: 50px;}
+	.donate-txt .theme-btn {padding: 0 22px;}
+	.donate-txt .row.align-items-end {align-items: flex-start !important; }
+	.sound-music.v3 {right: 0;}
+	.sound-music.v2 {left: 0;}
+	.sound-music.v4 {right: 0;}
+	.keep-text h2 {font-size: 50px;line-height: 60px;}
+	.keep-track-sec {padding: 100px 0;}
+	.mb-img {display: none;}
+	.keep-text {text-align: center;margin: 0 auto;max-width: 600px;}
+	.ms-column {margin-bottom: 50px;}
+	.ms-collection {margin-bottom: -50px;}
+	.testi-content > p {font-size: 24px;line-height: 33px;}
+	.price-content-v2 {padding: 120px 100px;}
+	header nav {display: none;}
+	.audiofy-player .music-progress {width: 40%;}
+	.audiofy-player .musicc-controls {flex-wrap: nowrap;}
+	.music-title .jp-title {max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+	header.v3 {padding: 20px 0;}
+	.abolt-text {padding: 0 50px;}
+	.abolt-text > h2 {font-size: 40px;line-height: 47px;}
+	.section-title > h2 {font-size: 48px;line-height: 56px;}
+	.menu-btn {display: inline-block;margin-left: 30px;}
+	.tp-header-content .menu-btn {display: none;}
+	.social-header {display: none;}
+	.header-content-v2 .menu-btn {margin-left: auto;}
+	.header-content-v2 .menu-btn > span {background-color: #fff;}
+	.header-content-v3 .menu-btn {margin-left: auto;}
+	.pager-content > h2 {font-size: 50px;line-height: 58px;}
+	.slide-img > img {max-width: 100%;}
+	.partner-col-v3 > a img {max-width: 160px;}
+}
+
+@media only screen and (max-width: 991px)  {
+	.footer-social {padding: 0 30px;}
+	.social-links li a {font-size: 18px;}
+	.page-banner {padding: 110px 0;}
+	.author-cover-sec .row .col-lg-6:nth-child(2) {order: 0;}
+	.author-cover-sec .row .col-lg-6:nth-child(1) {order: 1;}
+	.author-text {padding-top: 50px;}
+	.author-cover-sec {margin-bottom: 0;padding: 120px 0;}
+	.pager-content > h2 {font-size: 50px;line-height: 60px;}
+	.blog-music div.maudio .audio-control .volume-bar {display: none;}
+	.sidebar {margin-top: 70px;}
+	.contact-widget {padding: 70px 40px;}
+	.donate-sec .row .col-lg-5 {order:2;}
+	.donate-sec .row .col-lg-7 {order:0;}
+	.donate-img {padding-left: 0;margin-bottom: 50px;padding-right: 0;}
+	.donate-music-page .donate-sec:nth-child(2n) .donate-img {padding-right: 0;}
+	.donate-txt .theme-btn {float: right;}
+	.donate-info {padding: 60px 40px 0; }
+	.donate-info > h2 {font-size: 40px;line-height: 44px;}
+	.donate-info {padding-left: 0;padding-right: 0;}
+	.donate-form-sec {padding: 70px 40px;}
+	.banner-sliderr .row .col-lg-7, .banner-slider .row .col-lg-7 {order: 2;}
+	.banner-sliderr .row .col-lg-5, .banner-slider .row .col-lg-5 {order: 0;}
+	.slide-img {text-align: center;margin-bottom: 60px;}
+	.slide-text {max-width: 100%;text-align: center;margin-top: 0;}
+	.slide-text > h2 {font-size: 40px;}
+	.main-banner {padding: 120px 0;}
+	.pd-info {padding-right: 0;}
+	.podcast-details .row .col-lg-4 {display: none;}
+	.section-title > h2 {font-size: 44px;line-height: 54px;}
+	.video-player:before {display: none;}
+	.podcast-info > h3 {font-size: 19px;}
+	.music-rw .col-2 {flex: 0 0 33.33%;max-width: 33.33%;}
+	.podcast-banner .row .col-lg-6:nth-child(2) {order: 0;}
+	.podcast-banner .row .col-lg-6:nth-child(1) {order: 1;}
+	.podcast-banner-section .podcast-img {position: static;margin-bottom: 40px;}
+	.podcast-banner {text-align: center;padding: 80px 0;}
+	.slide-text.v2 {max-width: 100%;}
+	.abut-para {margin-top: 0;margin-bottom: 40px;}
+	.ms-collection .ms-column {margin-bottom: 40px;}
+	.ms-collection {margin-bottom: -40px;}
+	.testi-img{display: none;}
+	.testi-content {padding-right: 0;text-align: center;}
+	.podcast-banner-section .podcast-img > img {max-width: 400px;}
+	.banner-slider .slide-img {margin: 0 auto;max-width: 400px;margin-bottom: 60px;}
+	.banner-slider .slide-text {text-align: center;}
+	.banner-slider .slick-dots {text-align: center;bottom: -70px;}
+	.service-col {margin-bottom: 50px;}
+	.services .row:nth-child(1) {margin-bottom: -50px; }
+	.playlist-section .col-lg-6:nth-child(3) {order: 3;}
+	.lc-list {margin-bottom: 30px;}
+	.blog-section .col-lg-4 .ms-title {margin-top: 70px;}
+	.license-section.block {padding-bottom: 90px;}
+	.author {margin-bottom: 30px;}
+	.auhtors {margin-bottom: -30px;}
+	.abt-block-content-v2 p {font-size: 40px;line-height: 54px;}
+	.music-text {padding-left: 0;margin-top: 100px;}
+	.feature-col {margin-bottom: 70px;}
+	.features {margin-bottom: -70px;}
+	.pr-txt {text-align: center;margin-bottom: 50px;}
+	.social-links-circle {text-align: center;}
+	.posts-section .post {margin-bottom: 60px;}
+	.posts-section {margin-bottom: -60px;}
+	.insta-section .row > div {padding: 0;}
+	.btm-logo {text-align: center;margin-bottom: 40px;}
+	.btm-links {text-align: center;}
+	.copyright-txt {text-align: center;}
+	footer.v-2 {padding: 80px 0 50px;}
+	.widget.widget-about {margin-bottom: 50px;}
+	.audiofy-player .musicc-controls {flex-wrap: wrap;}
+	.audiofy-player .jp-volume-controls {margin-left: auto;border-left: 1px solid rgba(255,255,255,0.20);}
+	.audiofy-player .music-progress {border-right: 0;}
+	.dd-music.playlist-btn {border-right: 0;}
+	.audiofy-player .music-progress {width: auto;flex: 371px;}
+	.audiofy-player .music-title {width: 100%;padding: 20px;background-color: #3d1e8f;border-top: 1px solid rgba(255,255,255,0.20);}
+	.audiofy-player .music-title .jp-title {max-width: 100%;text-overflow: inherit;white-space: inherit;max-width: 100%;}
+	.banner-text-v3 > h2 {font-size: 50px;line-height: 60px;}
+	.banner-slide-v3 {height: 600px;}
+	.audiofy-player {top: auto;bottom: 20px;}
+	.banner-text-v3 {top: 42%;}
+	.header-content-v3 {padding-bottom: 0;}
+	header.v3 {padding: 25px 0;}
+	.about-text-v3 > h2 {font-size: 50px;line-height: 60px;}
+	.about-text-v3 {margin-top: 50px;}
+	.audiofy-tabs.nav-tabs li a {padding: 0 30px;}
+	.partner-col-v3 > img {max-width: 100px;}
+	.broadcaster-details .col-lg-6:nth-child(2) {order: 0;}
+	.broadcaster-details .col-lg-6:nth-child(1) {order: 1;}
+	.broadcaster-details {text-align: center;}
+	.bd-details {max-width: 100%;margin-top: 50px;}
+	.sm-title:before {left: 50%;transform: translateX(-50%);}
+	.abolt-text {text-align: center;max-width: 100%;}
+	.block {padding: 90px 0;}
+	.nav-header {display: none;}
+	.tp-header-content .ml-auto {display: none;}
+	.tp-header-content .menu-btn {margin-left: auto;display: inline-block;}
+	.top-newsbar {display: none;}
+	.header-v2 {padding-top: 0;top: 25px;}
+	.main-banner-v2 {padding: 220px 0 160px;}
+	.abt-icon-v2 {padding-top: 60px;}
+	.main-banner-v3{margin-bottom: 80px;}
+	.main-banner .audiofy-player {top: auto;bottom: 0;}
+	.main-banner {margin-bottom: 50px;padding-bottom: 250px;}
+	.main-banner .audiofy-player {height: auto;}
+	.login-register {text-align: center;}
+	.or:before {display: none;}
+	.or {margin: 50px 0;}
+	.or > span {position: static;transform: inherit;}
+	.lg-form {max-width: 500px;margin: 0 auto;}
+	.page-content + .block {margin-top: -40px; }
+	.player-btn {margin-top: -10px;}
+	.partner-col-v3 {flex: 0 0 calc(100% / 3);max-width: calc(100% / 3);margin-bottom: 50px;}
+	.partners-v3 {margin-bottom: 20px;}
+	.partner-col-v3 > a img {max-width: 200px;}
+}
+
+
+@media only screen and (max-width: 767px) {
+	.social-links li {max-width: 33.33%;flex: 0 0 33.33%;border-bottom: 1px solid rgba(255,255,255,0.30);}
+	.footer-social {border-bottom: 0;}
+	.ft-links li {margin-bottom: 15px;}
+	.page-banner {padding: 90px 0;}
+	.pager-content > h2{font-size: 50px;line-height: 60px;}
+	.author-img > img {max-width: 100%;}
+	.author-epi {display: block;border: 2px solid #f1f1f1;}
+	.author-epi-info {max-width: 100%;border: 0;}
+	.author-epi-thumb {margin: 0 auto;margin-bottom: 30px;margin-top: 30px;}
+	.social-links li {border-right: 0;}
+	.social-links {border-left: 0;}
+	.author-podcasts-sec .nav-tabs {justify-content: center;}
+	.author-podcasts-sec {padding: 100px 0;}
+	.blog-single .blog-info blockquote {padding: 63px 60px 49px;}
+	.points li {font-size: 18px;}
+	.blog-music .music-player div.maudio .audio-control {justify-content: center;}
+	.blog-music div.maudio .audio-control .progress-bar {width: 100%;margin: 20px 0;}
+	.blog-music .music-player .maudio {padding: 30px;}
+	.social_links.text-right {text-align: left !important;top: 0;margin-top: 30px;}
+	.comment-btx {display: block;}
+	.comnt-info{max-width: 100%;padding-left: 0;margin-top: 30px;}
+	.post-thumbnail > img {width: 100%;}
+	.blog-posts.vv2 .blog-thumbnail {margin-bottom: 40px;}
+	.blog-posts.vv2 .blog-post {margin-bottom: 60px;}
+	.donate-txt {text-align: center;}
+	.donate-txt .theme-btn {float: none;margin-top: 40px;}
+	.donate-music-page .donate-sec {margin-bottom: 50px;}
+	.personal-info form .row .col-md-6, .personal-info form .row .col-md-12 {padding: 0 15px;}
+	.personal-info form .row {margin: 0 -15px;}
+	.donate-form-sec > p {line-height: 22px;margin-bottom: 30px;}
+	.custom-amount {flex: 0 0 100%;max-width: 100%;margin-top: 20px;}
+	.amount-calc > ul {max-width: 100%;flex: 0 0 100%;}
+	.amount-calc > ul li {margin-right: 10px;}
+	.musicc-controls .beatx-playyer .jp-title {font-size: 20px;line-height: 30px;}
+	.vid-head > h2 {font-size: 34px;line-height: 50px;}
+	.section-title > h2 {font-size: 38px;}
+	.slide-text > h2 {max-width: 400px;margin: 0 auto 30px;}
+	.block {padding: 100px 0;}
+	.podcast-info {max-width: 80%;flex: 0 0 80%;}
+	.podcast-info > h3 {font-size: 21px;}
+	.music-rw .col-2 {flex: 0 0 50%;max-width: 50%;}
+	.service-col > p {font-size: 16px;}
+	.sectiont-title > h2 {font-size: 36px;}
+	.listen-dv > h3 {margin-bottom: 30px;}
+	.listen-dv > ul {padding-left: 0;margin-bottom: -30px;}
+	.listen-dv > ul li {margin-bottom: 30px;}
+	.ply-text > h2 {margin-bottom: 60px;}
+	.playlist-audio {padding: 84px 15px 77px;}
+	.blog-section .col-lg-4 .ms-title {margin-top: 40px;}
+	.abt-block-content-v2 p {padding: 0;}
+	.sounds-section {padding-bottom: 90px;}
+	.why-choose-us {padding: 90px 0;}
+	.keep-text h2 {font-size: 40px;line-height: 50px;}
+	.music-collections {padding: 90px 0;}
+	.price-content-v2 {padding: 120px 50px;}
+	.promote-sec {padding-bottom: 90px;}
+	.top-footer {text-align: center;}
+	.widget.widget-links {margin-top: 30px;}
+	.wd-links li a::before {display: none;}
+	.wd-links li a {padding-left: 0;}
+	.btm-links li {margin-bottom: 20px;}
+	.banner-text-v3 > h2 {font-size: 43px;line-height: 52px;}
+	.audiofy-player .jp-audio .jp-interface, .audiofy-player .jp-audio-stream .jp-interface {height: auto;}
+	.audiofy-player .jp-audio .jp-controls {border:0;width: 100%;}
+	.audiofy-player .music-progress {flex: 100%;}
+	.dd-music {border: 0;}
+	.audiofy-player .jp-volume-controls {border: 0;}
+	.audiofy-player .music-title {text-align: center;}
+	.dd-music {display: inline;}
+	.audiofy-player .jp-volume-controls {margin-left: 0;}
+	.audiofy-player .musicc-controls {justify-content: center;}
+	.audiofy-player .musicc-controls {padding-top: 25px;}
+	.audiofy-player .jp-audio .jp-controls {padding-bottom: 30px;border-bottom: 1px solid rgba(255,255,255,0.20);}
+	.audiofy-player .music-progress {border-bottom: 1px solid rgba(255,255,255,0.20);padding-bottom: 15px;}
+	.audiofy-player {position: static;margin-top: -150px;}
+	.about-text-v3 {margin-top: 0;}
+	.audiofy-tabs.nav-tabs {display: block;text-align: center;}
+	.audiofy-tabs.nav-tabs li a {width: 300px;}
+	.section-title.v3 h2 {font-size: 36px;line-height: 48px;}
+	.partner-col-v3 {flex: 0 0 calc(100% / 3);max-width: calc(100% / 3);margin-bottom: 40px;}
+	.partners-v3 {margin-bottom: 30px;}
+	.header-content-v3 .social-header {display: none;}
+	.menu-btn {margin-left: auto;}
+	.abt-block-v2 {padding-top: 0;}
+	.main-banner-v3{margin-bottom: 0;}
+	.main-banner {padding-bottom: 0;margin-bottom: 0;}
+	.main-banner .audiofy-player {margin-top: 150px;}
+	.pager-content > h2 {font-size: 40px;line-height: 50px;}
+	.album-img {display: none;}
+	.album-img + .musicc-controls {width: 100%;}
+	.player-btn {width: 90px;height: 90px;line-height: 90px;font-size: 32px;}
+	.player-btn:before {width: 110px;height: 110px;}
+	.slick-next,.slick-prev {display: none !important;}
+}
+
+@media only screen and (max-width: 576px) {
+	.error-page > h1 {font-size: 200px;margin-bottom: 0;margin-top: 20px;letter-spacing: -10px;}
+	.social-links li {max-width: 100%;flex: 0 0 100%;border-right: 0;}
+	.ft-links li {display: block;margin: 0 0 25px;padding: 0;border-right: 0;}
+	.ft-links li:before {display: none;}
+	.ft-links {margin-bottom: 50px;}
+	footer {padding-bottom: 60px;}
+	.epi-head {display: block;text-align: center;}
+	.sharing-lnks {display: block;margin-bottom: 20px;}
+	.author-epi .song-title {margin: 30px 0;text-align: center;}
+	.author-epi-info {height: auto;margin-bottom: 25px;}
+	.footer-social {padding: 0;}
+	.author-cover-sec {padding: 100px 0;}
+	.blog-single .blog-info blockquote {padding: 63px 40px 49px;}
+	.w-100.mb-30 {margin-bottom: 15px;}
+	.contact-row .widget-title {font-size: 28px;}
+	.contact-box {padding-top: 0;}
+	.contact-map iframe {height: 300px;}
+	.slide-img > img {max-width: 100%;}
+	.image-col {margin-bottom: 10px;}
+	.jp-audio .jp-interface, .jp-audio-stream .jp-interface {height: auto;}
+	.musicc-controls {width: 100%;padding: 0 20px;}
+	.album-img {text-align: center;margin-bottom: 30px;max-width: 100%;}
+	.jp-interface {padding: 30px 0;}
+	.jp-gui.jp-interface {display: block;}
+	.podcast-info {max-width: 50%;flex: 0 0 50%;}
+	.price-head-v2 > h2 {font-size: 32px;line-height: 40px;}
+	.music-rw .col-2 {flex: 0 0 100%;max-width: 100%;}
+	.sponsor-text p {font-size: 40px;line-height: 50px;}
+	.song-title {text-align: center;}
+	.sec-title-v2 > h2 {font-size: 36px;line-height: 46px;}
+	.ply-text > h2 {margin-bottom: 30px;}
+	.sbs-btns li a.theme-btn {height: 52px;line-height: 50px;}
+	.songs-list li h3 {max-width: 315px;}
+	.blog-section .col-lg-4 .ms-title{margin-top: 0;}
+	.player-btn::before {width: 120px;height: 120px;border: 5px solid #ed6b27;}
+	.player-btn {width: 100px;height: 100px;line-height: 106px;font-size: 36px;}
+	.testimonial-sec {padding: 80px 0;}
+	.price-content-v2{padding: 75px 50px;}
+	.audiofy-player .musicc-controls {padding-top: 0;}
+	.audiofy-player .music-title {padding-bottom: 0;}
+	.banner-text-v3 {max-width: 400px;}
+	.banner-text-v3 > span {font-size: 17px;}
+	.banner-text-v3 {top: 40%;}
+	.banner-slider-v3 .slick-dots {top: 43%;}
+	.banner-slide-v3 {height: 580px;}
+	.header-content-v3 .social-header {display: none;}
+	.banner-text-v2 > h2 {font-size: 40px;line-height: 50px;}
+	.main-banner-v2 {padding: 190px 0 160px;}
+	.page-content {padding: 100px 0;}
+	.logo-v2 a img {max-width: 170px;}
+	.partner-col-v3 {max-width: calc(100% / 2); flex: 0 0 calc(100% / 2);}
+}
+
+@media only screen and (max-width: 480px) {
+	.page-banner {padding: 55px 0 70px;}
+	.pager-content > h2{font-size: 40px;line-height: 50px;margin-bottom: 15px;}
+	.error-page > h1 {font-size: 150px;}
+	.error-page > h2 {font-size: 60px;}
+	.error-page > p {font-size: 22px;}
+	.audi-form .theme-btn.v2 {position: static;margin-top: 10px;display: inline-block;padding: 0 30px;margin-top: 20px;}
+	.audi-form {text-align: center;}
+	.sharing-lnks li {display: block;margin-right: 0;margin-bottom: 20px;}
+	.author-epi-info {padding: 0 20px;}
+	.page-content {padding: 90px 0;}
+	.blog-info > h2 {font-size: 24px;}
+	.listen-podcast > h2 {font-size: 26px;margin-bottom: 35px}
+	.comnt-info > span {padding-left: 0;margin-top: 10px;margin-bottom: 20px;}
+	.comments-list ul {padding-left: 15px;}
+	.vid-capp > h3 {font-size: 20px;line-height: 30px;}
+	.page-link {width: 40px;height: 40px;line-height: 40px;}
+	.contact-widget {background-color: inherit;padding: 0;}
+	.contact-box {background-color: inherit;padding: 0;margin-top: 60px;}
+	.contact-row .widget-title {font-size: 24px;padding-bottom: 10px;}
+	.donate-txt > h2 {font-size: 30px;line-height: 36px;}
+	.donate-info > h2 {font-size: 30px;line-height: 38px;}
+	.dd-title {font-size: 26px;}
+	.alert-notice {display: block;}
+	.alert-notice > img {margin-bottom: 10px;}
+	.amount-calc > ul li {width: 100%;margin-bottom: 10px;margin-right: 0;}
+	.select-payment > h3, .personal-info > h3 {font-size: 17px;}
+	.personal-info form .btn-default {width: 100%;}
+	.donate-info {padding-top: 40px;}
+	.full_width {max-width: 100%;flex: 0 0 100%;}
+	.main-banner {padding: 80px 0;}
+	.slide-text > h2 {font-size: 30px;line-height: 40px;}
+	.slide-meta li {display: block;margin-right: 0;margin-bottom: 15px;padding: 0;}
+	.slide-meta li:before {display: none;}
+	.sbs-btns li {display: block;margin-right: 0;margin-bottom: 15px;}
+	.sbs-btns li a.theme-btn {width: 100%;}
+	.section-title > h2 {line-height: 42px;}
+	.section-title > span {margin-bottom: 15px;}
+	.vid-head > h2 {font-size: 26px;line-height: 40px;}
+	.video-section {padding: 80px 0;}
+	.upload-btn {padding: 0 30px;}
+	.price-col-v2 {padding: 55px 30px 40px;}
+	.price-col-v2 h2 {font-size: 60px;}
+	.sponsor-text p {font-size: 30px;line-height: 44px;}
+	.full_width .team-mem {margin-bottom: 30px;}
+	.mt-80 {margin-top: 30px;}
+	.music-collections {padding: 80px 0;}
+	.testi-content > p {font-size: 20px;line-height: 32px;}
+	.testi-content > h3 {font-size: 20px;line-height: 28px;}
+	.testi-thumb::before {display: none;}
+	.sec-title-v2 > h2 {font-size: 32px;line-height: 40px;}
+	.banner-slider .slick-dots {bottom: -40px;}
+	.ply-text {position: static;transform: inherit;padding: 40px 30px 0;}
+	.ply-thumb {height: auto;}
+	.ply-thumb:before {display: none;}
+	.ply-text > span {color: #666;}
+	.ply-text > h2 {color: #111;}
+	.sbs-btns li a.theme-btn {color: #111;border-color: #ddd;}
+	.sbs-btns li a.theme-btn:hover {background-color: #f26d28;color: #fff;border-color: transparent;}
+	.ply-text > h2 {font-size: 30px;line-height: 40px;}
+	.pl-head {display: block;text-align: center;}
+	.pl-head > h3 {margin-bottom: 30px;}
+	.songs-list li h3 {padding-left: 0;width: 100%;max-width: 100%;margin: 20px 0;padding: 0 30px;line-height: 29px;}
+	.songs-list li span {display: block;width: 100%;text-align: left;padding-left: 0;text-align: center;}
+	.songs-list li span:before {display: none;}
+	.songs-list li span:before {margin-right: 0;}
+	.songs-list li {border-bottom: 1px solid #ddd;padding: 30px 0;text-align: center;}
+	.songs-list .maudio {border-right: 0;margin: 0 auto;}
+	.songs-list .mm-audio {width: 100%;}
+	.pl-head {margin-bottom: 30px;}
+	.lc-title {font-size: 14px;}
+	.lc-list li {padding: 0 20px;}
+	.abt-block-content-v2 p {font-size: 30px;line-height: 40px;}
+	.sound-music {position: relative;top: 0 !important;left: 0 !important;margin-bottom: 20px;}
+	.sound-music > img {width: 100%;}
+	.sounds-music-list {height: auto;}
+	.music-text {margin-top: 60px;}
+	.music-text > h2 {font-size: 40px;line-height: 50px;}
+	.feature-col > h3 {font-size: 24px;line-height: 30px;padding: 0 20px;}
+	.keep-text h2 {font-size: 34px;line-height: 42px;}
+	.kp-links li {display: block;margin-right: 0;margin-bottom: 10px;}
+	.kp-links li:last-child {margin-bottom: 0;}
+	.keep-track-sec {padding: 80px 0;}
+	.keep-text p {font-size: 17px;line-height: 27px;}
+	.price-content-v2 {padding: 70px 15px;}
+	.price-col-v2 .theme-btn.v2 {padding: 0 10px;}
+	.price-head-v2 > h2 {font-size: 28px;line-height: 35px;}
+	.price-head-v2 > span {margin-bottom: 15px;}
+	.banner-text-v3 > h2 {font-size: 34px;line-height: 42px;}
+	.banner-text-v3 > span {line-height: 25px;}
+	.banner-slider-v3 .slick-dots {right: 10px;}
+	.banner-text-v3 {padding-right: 60px;}
+	.about-text-v3 > h2 {font-size: 40px;line-height: 50px;}
+	.about-text-v3 {margin-top: -10px;}
+	.audiofy-tabs.nav-tabs li a {width: 100%;}
+	.partner-col-v3 {max-width: 100%;flex: 0 0 100%;}
+	.bd-img .btn-default {width: 75%;}
+	.bd-details > h2 {font-size: 50px;}
+	.bd-play-details .sm-title {font-size: 22px;}
+	.section-title > span{font-size: 16px;line-height: 23px;margin-bottom: 15px;}
+	.abolt-text {padding: 35px 15px;}
+	.abolt-text > h2 {font-size: 34px;line-height: 40px;}
+	.pl-info {padding: 30px 15px;}
+	header.v3 .logo {max-width: 140px;flex: 0 0 140px;}
+	.logo > a img {max-width: 150px;}
+	.responsive-mobile-menu {width: 100%;}
+	.banner-text-v2 > h2 {font-size: 32px;line-height: 40px;}
+	.banner-text-v2 > span {font-size: 15px;}
+	.main-banner .sbs-btns li a.theme-btn {color: #fff;}
+	.main-banner .audiofy-player {margin-top: 120px;}
+	.main-banner {padding-bottom: 0;}
+	.mm-title {font-size: 33px;}
+	.lg-form .form-group button {width: 100%;margin-bottom: 25px;}
+	.pager-content > h2 {font-size: 32px;line-height: 40px;}
+	.breadcrumb li {margin-bottom: 15px;}
+	.breadcrumb{margin-bottom: -15px;}
+	.breadcrumb li a, .breadcrumb li span {font-size: 15px;}
+	.album-img + .musicc-controls .beatx-playyer .jp-audio .jp-controls {width: 100%;}
+	.album-img + .musicc-controls .beatx-playyer .jp-audio .jp-play {margin: 0 auto;}
+	.album-img + .musicc-controls .controls-sc {max-width: 100%;flex: 0 0 100%;padding: 0;}
+	.album-img + .musicc-controls .beatx-playyer .jp-volume-bar {display: none !important;}
+	.album-img + .musicc-controls .beatx-playyer .jp-volume-controls button {margin-right: 0;}
+	.album-img + .musicc-controls .song-title {padding: 0 15px;}
+	.player-btn {width: 70px;height: 70px;line-height: 70px;font-size: 26px;margin-top: -10px;}
+	.player-btn:before {width: 90px;height: 90px;}
+}
